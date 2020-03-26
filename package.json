@@ -1,0 +1,9 @@
+{
+  "name": "try-shadow-cljs-2",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "shadow-cljs": "2.8.93"
+  },
+  "dependencies": {}
+}
